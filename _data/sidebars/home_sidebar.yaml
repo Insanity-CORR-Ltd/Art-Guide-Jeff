@@ -93,7 +93,11 @@ entries:
         - title: Observer Pattern
           url: /observer.html
           output: web
+    - title: Testdoc
+      url: doctest.html
+      output: web
 
+   
 - title: 
   url: # don't forget the / (forward slash), otherwise the sidebar collapses
   output: web
