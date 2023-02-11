@@ -13,6 +13,9 @@ folder: documentation # The folder containing the relevant markdown file
 
 Hey this is a fun test sentence, Hello!
 
-![It's a poster of JEFF-3 and friends!](/images/Jeff-3 Poster.png)
+![It's a poster of JEFF-3 and friends!](/images/Jeff-3\ Poster.png)
+
+{% include image.html file="jekyll.png" url="http://jekyllrb.com" alt="Jekyll" caption="This is a sample caption" %}
 
 [Important Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+[Jekyll image documentations](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_images.html)
